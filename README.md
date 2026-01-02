@@ -1,4 +1,4 @@
-# bun-ai-api
+# ai-free-tokens
 
 To install dependencies:
 
