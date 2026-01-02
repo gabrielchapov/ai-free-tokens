@@ -12,5 +12,10 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "@cerebras/cerebras_cloud_sdk": "^1.64.1",
+    "@openrouter/sdk": "^0.3.11",
+    "groq-sdk": "^0.37.0"
   }
 }
